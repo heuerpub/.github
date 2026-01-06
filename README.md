@@ -1,2 +1,1 @@
-# .github
-Heuer Publishing
+# Heuer Publishing
