@@ -1,5 +1,5 @@
 # Heuer Publishing
-Performing Arts
+Performing Arts, 
 Cedar Rapids, IA
 
 ## About us
